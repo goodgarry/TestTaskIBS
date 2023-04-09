@@ -39,6 +39,7 @@ id | blogger_id | title | description | date
 4| 2| Пост Владиморова 1| Lorem ipsum dolor sit amet| 12.03.2002
 5| 3| Пост Кириешкин 1| Lorem ipsum dolor sit amet| 13.04.2002
 
+Есть зависимость между таблицей POST и BLOGER через blogger_id( id в таблице BLOGGER)
 База данных представлена в файле bloggers.db
 
 2) Для реализации GET-запроса была использована библиотека FastAPI.
