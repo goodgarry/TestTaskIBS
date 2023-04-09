@@ -12,6 +12,10 @@ https://www.figma.com/file/QOHXuTHr6hKChqiTw6KEmY/front-test-task
 Сервис развернут на площадке Render: 
 - https://ibstask-antonov.onrender.com/docs
 
+GET-запрос:
+- https://ibstask-antonov.onrender.com/bloggers
+
+
 
 Реализация:
 
